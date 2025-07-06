@@ -56,6 +56,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=notaditya01&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="notaditya01 GitHub Stats" />
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=notaditya01&show_icons=true&locale=en&layout=compact&theme=dark" alt="notaditya01 Top Languages" />
+</p>
 </p>
 
 <p align="center">
