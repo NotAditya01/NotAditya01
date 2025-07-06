@@ -7,7 +7,7 @@
 👋 Hi there! I'm an undergraduate student eagerly exploring the world of Web3 development. I'm passionate about learning new technologies and contributing to open-source projects.
 
 - 🚧 **Currently working on:**
-  - **JEEVAULT**: An open-source project focused on [briefly describe what JEEVAULT is, e.g., "a tool for JEE exam preparation," "a study resource platform," etc.]
+  - **JEEVAULT**: An open-source project focused on a study resource platform
   - Deep diving into **Blockchain Fundamentals** and smart contract development.
 
 - 🌱 **Currently learning:**
