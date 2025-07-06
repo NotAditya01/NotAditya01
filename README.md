@@ -31,7 +31,7 @@
 
 - ✉️ **How to reach me:**
   - **Email:** adixd190@gmail.com
-  - **Telegram:** @swappy
+  - **Telegram:** @swappygg
 
 ---
 
