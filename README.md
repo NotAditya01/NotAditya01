@@ -64,11 +64,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=notaditya01&show_icons=true&locale=en&layout=compact&theme=dark" alt="Aditya Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NotAditya01&show_icons=true&locale=en&layout=compact&theme=dark" alt="Aditya Top Languages" />
 </p>
-
----
-
-## Quote:
-
-> "The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
