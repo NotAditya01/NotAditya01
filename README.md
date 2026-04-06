@@ -6,8 +6,7 @@
 
 👋 Hi there! I'm an undergraduate student eagerly exploring the world of Web3 development. I'm passionate about learning new technologies and contributing to open-source projects.
 
-- 🚧 **Currently working on:**
-  - **JEEVAULT**: An open-source project focused on a study resource platform
+
   - Deep diving into **Blockchain Fundamentals** and smart contract development.
 
 - 🌱 **Currently learning:**
@@ -27,7 +26,7 @@
 - 💬 **Ask me about:**
   - Anything related to getting started in Web3.
   - My journey learning programming and blockchain.
-  - My open-source project, JEEVAULT!
+
 
 - ✉️ **How to reach me:**
   - **Email:** adixd190@gmail.com
