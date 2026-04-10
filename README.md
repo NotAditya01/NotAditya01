@@ -40,12 +40,7 @@
   <img src="https://streak-stats.demolab.com?user=notaditya01&theme=tokyonight" />
 </p>
 
-## 📊 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notaditya01&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" />
-</p>
----
 
 ## ⚡ Current Focus
 
