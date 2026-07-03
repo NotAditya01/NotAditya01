@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 - 🎓 Undergraduate exploring **Web3 & Blockchain Development**
-- ⚡ I focus on **building and experimenting**, not just tutorials
+- ⚡ I focus on **building and experimenting**, 
 - 🧠 Currently diving into:
   - Smart Contracts & Blockchain Internals  
   - Full-stack Web3 Applications  
@@ -16,8 +16,7 @@
 ## 🧠 What I'm Learning
 
 - 🔹 **Solidity** — writing secure smart contracts  
-- 🔹 **Ethers.js / Web3.js** — interacting with blockchain  
-- 🔹 **Hardhat & Ganache** — local dev & testing  
+- 🔹 **Ethers.js / Web3.js** — interacting with blockchain   
 - 🔹 **JavaScript + React** — building real DApps  
 
 ---
@@ -44,7 +43,7 @@
 
 ## ⚡ Current Focus
 
-- 🚀 Building Web3 projects (learning by doing)
+- 🚀 Building Web3 projects 
 - 🧩 Improving development skills through real projects
 - 🏗️ Exploring real-world blockchain use cases
 
