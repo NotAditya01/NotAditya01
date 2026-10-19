@@ -1,59 +1,13 @@
-<h1 align="center">Hey 👋, I'm Aditya</h1>
-<h3 align="center">Building in Web3 • Learning by shipping</h3>
+## Hi, I'm Aditya 👋
 
----
+Undergrad getting into Web3. I learn best by shipping, so most of what's here started as a hackathon idea or a weekend experiment.
 
-## 🚀 About Me
+Lately I've been writing smart contracts with Foundry, wiring them into Next.js apps, and fixing bugs in open-source projects when I find them.
 
-- 🎓 Undergraduate exploring **Web3 & Blockchain Development**
-- ⚡ I focus on **building and experimenting**, 
-- 🧠 Currently diving into:
-  - Smart Contracts & Blockchain Internals  
-  - Full-stack Web3 Applications  
+**Stack:** Solidity, Foundry, TypeScript, JavaScript, Next.js, React, Node, Express, MongoDB, Tailwind
 
----
-
-## 🧠 What I'm Learning
-
-- 🔹 **Solidity** — writing secure smart contracts  
-- 🔹 **Ethers.js / Web3.js** — interacting with blockchain   
-- 🔹 **JavaScript + React** — building real DApps  
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,html,css,tailwind,linux,bash" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=solidity,ts,js,nextjs,react,nodejs,mongodb,tailwind,linux" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notaditya01&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=notaditya01&theme=tokyonight" />
-</p>
-
-
-
-## ⚡ Current Focus
-
-- 🚀 Building Web3 projects 
-- 🧩 Improving development skills through real projects
-- 🏗️ Exploring real-world blockchain use cases
-
----
-
-## 🤝 Let's Connect
-
-- 📧 Email: **adixd190@gmail.com**
-- 💬 Telegram: **@swappygg**
-
----
-
-⭐ *Consistency > Motivation. Just keep building.*
+Reach me at adixd190@gmail.com or on Telegram at @swappygg.
