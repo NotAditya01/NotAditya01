@@ -8,8 +8,12 @@ Lately I've been writing smart contracts with Foundry, wiring them into Next.js 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=solidity,ts,js,nextjs,react,nodejs,mongodb,tailwind,linux" />
-
 </p>
+
 ### Open Source Contributions
+
 [![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
+
+### Contact
+
 Reach me at adixd190@gmail.com or on Telegram at @swappygg.
