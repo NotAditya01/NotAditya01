@@ -16,4 +16,4 @@ Lately I've been writing smart contracts with Foundry, wiring them into Next.js 
 
 ### Contact
 
-Reach me at adixd190@gmail.com or on Telegram at @swappygg.
+Reach me at adixd190@gmail.com or on Telegram at [@swappygg](https://t.me/swappygg).
